@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Kiruthick-07
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning AI&ML
+Our work defines us!!!🚀
   
   
 
